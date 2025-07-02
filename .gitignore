@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Data files
+/data/
+
+# Environment
+.env
+.venv
+venv/
+ENV/
+env/
+
+# IDE / Editor specific
+.vscode/
+.idea/
+.DS_Store
